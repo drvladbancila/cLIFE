@@ -29,10 +29,11 @@ and 30 rows representing a living cell with a one '1' and a dead cell with a dot
 makes the ones stand out, trust me).  
 
 Example of a simple map: 
-
-`...........`   
-`.....1.....`     
-`....111....`    
-`...........`   
+```
+...........
+.....1.....
+....111....
+...........
+```
 
 ![alt text](https://github.com/drvladbancila/cLIFE/blob/master/demo.png)
