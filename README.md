@@ -37,4 +37,4 @@ Example of a simple map:
 ```
 
 ![alt text](https://github.com/drvladbancila/cLIFE/blob/master/clifedemo.png)
-Image generated with the wonderful [cool-retro-terminal] (https://github.com/Swordfish90/cool-retro-term) by Swordfish90
+Image generated with the wonderful [cool-retro-terminal](https://github.com/Swordfish90/cool-retro-term) by Swordfish90.
