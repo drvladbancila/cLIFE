@@ -14,7 +14,7 @@ following exactly the rules of the original game:
 * A dead cell with three neighbors becomes alive in the next generation  
 
 ### How to install
-(you may need "sudo" for some of these)
+(you may need "sudo" for some of these)  
 `git clone --recursive https://github.com/drvladbancila/cLIFE`  
 `cd cLIFE`  
 `chmod +x install.sh`  
