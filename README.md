@@ -36,4 +36,4 @@ Example of a simple map:
 ...........
 ```
 
-![alt text](https://github.com/drvladbancila/cLIFE/blob/master/demo.png)
+![alt text](https://github.com/drvladbancila/cLIFE/blob/master/clifedemo.png)
