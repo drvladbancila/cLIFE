@@ -34,4 +34,4 @@ Example of a simple map:
 00001110000  
 00000000000  
 
-![alt text](https://github.com/drvladbancila/cLIFE/demo.png)
+![alt text](https://github.com/drvladbancila/cLIFE/blob/master/demo.png)
