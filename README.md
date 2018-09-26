@@ -3,6 +3,7 @@
 
 This is a C implementation of the "Game of Life".  
 When you start it you can either give it a file as a map or the flag "-r" which randomises the grid for you.  
+The living cells will be this green asterisks '*' jumping all over the place. If a cell lives more than four generations then it gets promoted as "stable" and therefore become red.  
 
 ### Rules
 After you execute cLIFE you can see the various cells moving and evolving
