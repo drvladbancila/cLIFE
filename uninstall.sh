@@ -1,4 +1,4 @@
 #!/bin/sh
 
 rm /bin/cLIFE
-rm -rf /usr/bin/turing
+rm -rf /usr/bin/cLIFE
