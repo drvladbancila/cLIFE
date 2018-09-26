@@ -28,7 +28,8 @@ and 30 rows representing a living cell with a one '1' and a dead cell with a dot
 (for the dead cells you can actually use any character as it will be ignored, but a dot  s
 makes the ones stand out, trust me).  
 
-Example of a simple map:  
+Example of a simple map: 
+
 00000000000  
 00000100000  
 00001110000  
