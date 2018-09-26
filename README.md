@@ -33,6 +33,6 @@ Example of a simple map:
 `...........`   
 `.....1.....`     
 `....111....`    
-`...........    
+`...........`   
 
 ![alt text](https://github.com/drvladbancila/cLIFE/blob/master/demo.png)
