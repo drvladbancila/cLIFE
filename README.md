@@ -13,12 +13,11 @@ following exactly the rules of the original game:
 	* A dead cell with three neighbors becomes alive in the next generation  
 
 ### How to install
-`git clone https://github.com/drvladbancila/cLIFE`
-`cd cLIFE`
-`chmod +x install.sh`
-`./install.sh`
-Then execute with `cLIFE`
-
+`git clone https://github.com/drvladbancila/cLIFE`  
+`cd cLIFE`  
+`chmod +x install.sh`  
+`./install.sh`  
+Then execute with `cLIFE`  
 
 ### Maps
 The program can run in 'random mode' or it can use a map. You can find some examples
