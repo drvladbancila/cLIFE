@@ -30,9 +30,9 @@ makes the ones stand out, trust me).
 
 Example of a simple map: 
 
-00000000000  
-00000100000  
-00001110000  
-00000000000  
+...........  
+.....1.....  
+....111....  
+...........  
 
 ![alt text](https://github.com/drvladbancila/cLIFE/blob/master/demo.png)
