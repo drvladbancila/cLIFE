@@ -7,10 +7,10 @@ When you start it you can either give it a file as a map or the flag "-r" which 
 ### Rules
 After you execute cLIFE you can see the various cells moving and evolving
 following exactly the rules of the original game:  
-	* A living cell with only one neighbour or less dies (as from isolation)  
-	* A living cell with more than three neighbours dies (as from overpopulation)  
-	* A living cell with two or three neighbours keeps living for another generation  
-	* A dead cell with three neighbors becomes alive in the next generation  
+* A living cell with only one neighbour or less dies (as from isolation)  
+* A living cell with more than three neighbours dies (as from overpopulation)  
+* A living cell with two or three neighbours keeps living for another generation  
+* A dead cell with three neighbors becomes alive in the next generation  
 
 ### How to install
 `git clone https://github.com/drvladbancila/cLIFE`  
