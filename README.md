@@ -1,6 +1,6 @@
 # cLIFE
 ## A simulator of John Conway's "Game of Life" written in C.
-
+![alt text](https://github.com/drvladbancila/cLIFE/blob/master/clifedemo.png)
 This is a C implementation of the "Game of Life".  
 When you start it you can either give it a file as a map or the flag "-r" which randomises the grid for you, if you're not willing to create your own (lazy). 
 The living cells will be these green asterisks '*' jumping all over the place. If a cell lives more than four generations then it gets promoted as "stable" and therefore becomes red.  
@@ -36,6 +36,4 @@ Example of a simple map:
 ....111....
 ...........
 ```
-### Screenshot
-![alt text](https://github.com/drvladbancila/cLIFE/blob/master/clifedemo.png)
-Image generated with the wonderful [cool-retro-terminal](https://github.com/Swordfish90/cool-retro-term) by Swordfish90.
+Image above ted with the wonderful [cool-retro-terminal](https://github.com/Swordfish90/cool-retro-term) by Swordfish90.
